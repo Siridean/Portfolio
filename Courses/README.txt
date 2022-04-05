@@ -32,7 +32,7 @@ Below are a list of courses I have completed relating to Machine Learning:
 - Machine Learning Crash Course - Google (In progress)  https://developers.google.com/machine-learning/crash-course/ml-intro
 
 
-- Deep Learning for Coders (In Progress)                https://course18.fast.ai/lessons/lesson1.html
+- Deep Learning for Coders (In Progress)                https://course18.fast.ai/ml.html
 
 
 - Adhoc TensorFlow Guides and Lessons:
