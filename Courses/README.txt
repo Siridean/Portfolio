@@ -19,17 +19,21 @@ Below are a list of courses I have completed relating to Machine Learning:
   - Intro to Game AI and Reinforcement Learning https://www.kaggle.com/learn/certification/siridean/intro-to-game-ai-and-reinforcement-learning
 
 
-- MIT 6.S191 Intro to Deep Learning 2021                http://introtodeeplearning.com/2021/index.html
-  - Lab 1-1: TensofFlow Introduction
-  - Lab 1-2: Music Generation
-  - Lab 2-1: MNIST Digit Recognition
-  - Lab 2-2: Debiasing Facial Recognition Model           
+- MIT 6.S191 Intro to Deep Learning 2021        http://introtodeeplearning.com/2021/index.html
+  - Lab 1-1: TensofFlow Introduction              https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Part1_TensorFlow.ipynb
+  - Lab 1-2: Music Generation                     https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Part2_Music_Generation.ipynb    
+  - Lab 2-1: MNIST Digit Recognition              https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_2_MNIST.ipynb
+  - Lab 2-2: Debiasing Facial Recognition Model   https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Debiasing.ipynb
+  
 
 - MSLearn-DP100 - Azure Machine Learning Course         https://microsoftlearning.github.io/mslearn-dp100/
 
+
 - Machine Learning Crash Course - Google (In progress)  https://developers.google.com/machine-learning/crash-course/ml-intro
 
+
 - Deep Learning for Coders (In Progress)                https://course18.fast.ai/lessons/lesson1.html
+
 
 - Adhoc TensorFlow Guides and Lessons:
   - DCGAN Tutorial    https://www.tensorflow.org/tutorials/generative/dcgan     https://github.com/Siridean/Portfolio/blob/main/Courses/TF_DCGAN_Tutorial.ipynb
