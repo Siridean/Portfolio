@@ -6,3 +6,5 @@ It was done the way it is to create more of a challenge, and so that it works ve
 
 My process is normally to use basic code and algorithms where possible to enhance readability and lead times.
 I will only significantly optimise where appropriate and if there is a large leadtime (like a personal open-ended project)
+
+Note example images not provided here due to personal nature of my output and source images. (Anniversary gift to my partner! :) )
