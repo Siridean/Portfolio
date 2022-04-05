@@ -6,5 +6,5 @@ https://www.kaggle.com/code/siridean/titanic-dnn-survival-predictions?scriptVers
 
 Kaggle: MNIST Digit Recogniser
 Accuracy: >98%
-Predicting the numeral value fo a hand written digit using the MNIST data. Used a simple serial-fed DNN to establish a baseline, then used a CNN to create the final predictions.
+Predicting the numeral value of a hand written digit using the MNIST data. Used a simple serial-fed DNN to establish a baseline, then used a CNN to create the final predictions.
 https://www.kaggle.com/code/siridean/mnist-cnn-number-predictions?scriptVersionId=91683078
