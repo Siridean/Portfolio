@@ -24,16 +24,16 @@ Below are a list of courses I have completed relating to Machine Learning:
   - Lab 1-2: Music Generation                     https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Part2_Music_Generation.ipynb    
   - Lab 2-1: MNIST Digit Recognition              https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_2_MNIST.ipynb
   - Lab 2-2: Debiasing Facial Recognition Model   https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Debiasing.ipynb
-  - Lab 3-1: Reinforcement Learning Balance Task  
+  - Lab 3-1: Reinforcement Learning Balance Task  https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Reinforcement_Learning.ipynb
   
 
-- MSLearn-DP100 - Azure Machine Learning Course         https://microsoftlearning.github.io/mslearn-dp100/
+- MSLearn-DP100 - Azure Machine Learning Course   https://microsoftlearning.github.io/mslearn-dp100/
 
 
-- Machine Learning Crash Course - Google (In progress)  https://developers.google.com/machine-learning/crash-course/ml-intro
+- Machine Learning Crash Course - Google          https://developers.google.com/machine-learning/crash-course/ml-intro
 
 
-- Deep Learning for Coders (In Progress)                https://course18.fast.ai/ml.html
+- Deep Learning for Coders (In Progress)          https://course18.fast.ai/ml.html
 
 
 - Adhoc TensorFlow Guides and Lessons:
