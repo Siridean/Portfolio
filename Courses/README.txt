@@ -24,6 +24,7 @@ Below are a list of courses I have completed relating to Machine Learning:
   - Lab 1-2: Music Generation                     https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Part2_Music_Generation.ipynb    
   - Lab 2-1: MNIST Digit Recognition              https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_2_MNIST.ipynb
   - Lab 2-2: Debiasing Facial Recognition Model   https://github.com/Siridean/Portfolio/blob/main/Courses/MIT_LAB_Debiasing.ipynb
+  - Lab 3-1: Reinforcement Learning Balance Task  
   
 
 - MSLearn-DP100 - Azure Machine Learning Course         https://microsoftlearning.github.io/mslearn-dp100/
